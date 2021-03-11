@@ -1,0 +1,5 @@
+{
+	"python.pythonPath": ".finalproj_venv/bin/python",
+	"editor.occurrencesHighlight": false,
+	"git.ignoreLimitWarning": true
+}
