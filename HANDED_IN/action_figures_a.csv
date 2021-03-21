@@ -1,0 +1,503 @@
+﻿ProductId,FigureId,Manufacturer,Product,Release Year,Product Description,Product Type,Purchased From,purchase_price,exclusive_to_retailer_id,action_figure_description,likeness,storage_location,Adventure,Air Force,Armor,Army,Astronaut,Avengers,Celebrity,Civilian,Coast Guard,Comics,DC Comics,Fashion,Fire Fighter,Foreign,Horror,Knight,Marines,Martial Arts,Marvel Comics,Navy,Police,RAH/Cobra,Sci-Fi,Sports,Spy,TV/Film,Warrior,Western,World Leader,X-Men
+1,1,21st Century Toys,82nd Airborne Infantry (modern),1998,Carded set placed on generic Ultimate Soldier figure;,1:6 figure,KB Toys,14.99,,,,03.03,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2,21st Century Toys,Convention Exclusive German Desert Set,2000,"Includes Kubelwagon, Field Marshall Erwin Rommel, DAK Infantry figure; Rommel is in box 3.71",1:6 figure,,,,Figure 1 of 2 duplicate figures,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,3,21st Century Toys,Convention Exclusive German Desert Set,2000,"Includes Kubelwagon, Field Marshall Erwin Rommel, DAK Infantry figure; Rommel is in box 3.71",1:6 figure,,,,Figure 2 of 2 duplicate figures,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,4,21st Century Toys,Fireman,2000,Box not found;,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,5,21st Century Toys,Mad Bomber,2001,"Three masks: clear, monkey, clown",1:6 figure,,,,Clear mask on display,,window.right.bottom.upper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,6,21st Century Toys,S.W.A.T. Commander,1999,,1:6 figure,KB Toys,29.99,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6,7,21st Century Toys,S.W.A.T. Motorcycle and Rider,2000,,1:6 figure,KB Toys,19.99,,,,03.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,8,21st Century Toys,U.S. Army Special Forces,1997,Carded set placed on generic Ultimate Soldier figure;,1:6 figure,,,,Green beret,,window.left.lower.top,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,9,3R,Hermann Göring,2011,,1:6 figure,Cotswold Collectibles,,,,Hermann Göring,TBD,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,10,Adventure Gear,Sandbox Exclusive,1998,"Desert adventure outfit on random, bearded figure;",1:6 figure,Adventure Gear,,,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,11,Armoury,IDF Givati Recon,2003,,1:6 figure,,,,,,03.14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,12,Armoury,Osama bin Laden,2003,Armoury not identified on packaging;,1:6 figure,,,,,Osama bin Laden,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12,13,Armoury,Saddam Hussein,2004,"Armoury not identified on packaging; Labeled ""Most Wanted II""",1:6 figure,,,,,Saddam Hussein,window.right.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+13,14,Bandai,Ultraman B Type,2001,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+14,15,bbi,"101st Airborne, Corporal ""Bud"" Norris",2001,,1:6 figure,Small Blue Planet,39.99,,,,window.left.top.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,16,bbi,"2nd British Commando Unit, Private Robert James",2001,,1:6 figure,,,,,,window.left.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,17,bbi,Blaze,2000,,1:6 figure,Small Blue Planet,23.99,,,,03.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+17,18,bbi,"Blue Angels 2002, Capt. Rob Ffield, No. 1 Flight Leader",2002,,1:6 figure,Small Blue Planet,,,,Capt. Rob Ffield,03.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+18,19,bbi,British Paratrooper,2002,,1:6 figure,,,,,,03.05,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,20,bbi,"Chinese MiG Pilot (Korean War), Squad Leader Wang Hai",2003,,1:6 figure,,,,,,03.28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,21,bbi,"F-15C Eagle Pilot ""Viper""",2001,Sunglasses broken - need repair;,1:6 figure,Small Blue Planet,39.99,,,,window.right.top.middle,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,22,bbi,Green Beret 50th Anniversary Edition,2002,One figure in 1952 dress outfit; One figure in modern combat outfit;,1:6 figure,Small Blue Planet,,,Figure 1; 1952 dress outfit with beret and helmet,,window.left.bottom.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,23,bbi,Green Beret 50th Anniversary Edition,2002,One figure in 1952 dress outfit; One figure in modern combat outfit;,1:6 figure,Small Blue Planet,,,Figure 2; 2002 camoflauge with beret and boonie hat,,window.left.bottom.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,24,bbi,"Imperial Japanese Navy Pilot, Lieutenant Sakae",2001,,1:6 figure,Small Blue Planet,,,,,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,25,bbi,"Imperial Japanese Navy, Yamamoto Ichiro, Seaman 1st Class",2002,,1:6 figure,Small Blue Planet,,,,,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,26,bbi,Jet,2000,"Purchased complete but loose, no box;",1:6 figure,Small Blue Planet,14.99,,,,03.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+25,27,bbi,Joanna Dark (without armor),2000,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,28,bbi,"Marine Force Recon, ""Sniper""",1999,Figure has custom facial expression mechanism;,1:6 figure,Small Blue Planet,29.99,,,,desk.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,29,bbi,"North American F86 Sabre Pilot (Korean War), Col Walker ""Bud"" Mahurin (51st FIW)",2003,,1:6 figure,,,,,"Walker ""Bud"" Mahurin",03.00,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,30,bbi,"North American F86 Sabre Pilot (Korean War), Col Walker ""Bud"" Mahurin (51st FIW)",2003,,1:6 figure,,,,,"Walker ""Bud"" Mahurin",TBD,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,31,bbi,Perfect Body,2001,Can be used for customization; Currently in original outfit; ,1:6 figure,Small Blue Planet,14.99,,,,03.36,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,32,bbi,"RAF Fighter Pilot, Squadron Leader Keith Gordon",2002,,1:6 figure,,,,,,window.right.top.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,33,bbi,"Russian MVD ""Krechet"", ""Falcon""",2001,Russian Special Forces; Needs year of release verified;,1:6 figure,Small Blue Planet,,,,,03.35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,34,bbi,"S.W.A.T. Operator, ""Jackson""",2003,,1:6 figure,,,34,,Colin Farrell,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33,35,bbi,"SEAL UDT, ""Stingray""",2001,,1:6 figure,Small Blue Planet,,,Comes in all black scuba diving gear and weapons,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,36,bbi,U-2 Pilot (Captain Bob Chapman),2003,May be either Air Force or CIA,1:6 figure,Showcase Comics,,,,,03.00,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+35,37,bbi,"U.S. 101st Airborne, Figuretoy.com Exclusive Version",2003,Includes camoflauge parachute;,1:6 figure,Figuretoy.com,,19,,,03.18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,38,bbi,"U.S. Air Force Pararescue, Sgt. W. ""Bones"" Wilson",2002,Accessories are delicate;,1:6 figure,Small Blue Planet,39.99,,,,window.left.bottom.middle,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,39,bbi,"U.S. Air Force Pararescue, Sgt. W. ""Bones"" Wilson",2002,Accessories are delicate;,1:6 figure,Small Blue Planet,39.99,,"Figure currently in a state of disarray. Head detached. Broken parts, etc.",,03.19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,40,bbi,"U.S. Marine Corps, Sergeant Dusty Rhodes",2002,,1:6 figure,Small Blue Planet,39.99,,,George Clooney,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,41,bbi,"U.S. Pilot, Lt. ""Doc"" Miller",2001,Needs year f release verified;,1:6 figure,Small Blue Planet,39.99,,,,03.00,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,42,Blitzkrieg Toyz,"Fidel Casto, El Comandante",2001,,1:6 figure,,60,,,Fidel Castro,window.right.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+41,43,Chronicle Books,Action Soldier (Masterpiece Edition),1996,"Includes book ""G.I. Joe: The Story Behind the Legend.""",1:6 figure,Gene's Books,60,,,,03.24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,44,Chronicle Books,Astronaut (Masterpiece Edition),1996,,1:6 figure,FAO Schwarz,,18,,,window.right.top.upper,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,45,Cotswold Collectibles,German SS Officer,1998,,1:6 figure,Cotswold Collectibles,,,,,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,46,Cotswold Collectibles,Roman First Class Warrior,1998,,1:6 figure,Cotswold Collectibles,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+45,47,Cotswold Collectibles,Santa Suit with Beard,2003,On Joe Figure;,1:6 figure,Cotswold Collectibles,,,,,03.08,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,48,Cotswold Collectibles,"U.S. Army MP, WWII",0,Customizing into L.W. Armstrong Honor Guard,1:6 figure,Cotswold Collectibles,,,,,01.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,49,Cotswold Collectibles,Viet Cong Guerrilla,1998,,1:6 figure,Cotswold Collectibles,,,,,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,50,Custom,"20,000 Leagues under the Sea Nautilus Crewman",2003,Customizer: Greg Eaton;,1:6 figure,,,,,,wall.desk.left,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+49,51,Custom,8th Army Rear Honor Guard - Armstrong,2002,Christmas gift to dada. In shadowbox with watercolor drawing,1:6 figure,LA Custom,,,,,wall.door,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+50,52,Custom,Bulletman Parade Dress,2004,Customizer: Leonard Armstrong;,1:6 figure,,,,,,03.31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,53,Custom,Bulletwoman White Wedding,2004,Customizer: Leonard Armstrong;,1:6 figure,,,,,,03.22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,54,Custom,Captain Action as Adam West Batman,2001,"Customizer: Wes McCue, Classic Plastick;",1:6 figure,,,,,Adam West,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+53,55,Custom,Mike Cherry augmented G.I. Jane,1999,Customizer: Mike Cherry; Release year estimated.,1:6 figure,,,,Enhanced hair and breasts. Most joints on body (iuncluding neck) are very loose.,,window.right.bottom.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,56,Custom,Erwin Rommel,1998,Rip-off customizer; Long delay and poor product;,1:6 figure,Pennsauken Toy Show,,,,Field Marshall Erwin Rommel,03.35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,57,Custom,Forrest Gump,0,Customizer: Dan Chung;,1:6 figure,,,,,Tom Hanks,desk.above.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+56,58,Custom,G.I. Elic,2004,Customizer: Leonard Armstrong; HFF Souvenier;,1:6 figure,,,,Figure 1 of 4 duplicate figures,Alexander Hampshire,04.00,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,59,Custom,G.I. Elic,2004,Customizer: Leonard Armstrong; HFF Souvenier;,1:6 figure,,,,Figure 2 of 4 duplicate figures,Alexander Hampshire,04.00,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,60,Custom,G.I. Elic,2004,Customizer: Leonard Armstrong; HFF Souvenier;,1:6 figure,,,,Figure 3 of 4 duplicate figures,Alexander Hampshire,04.00,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,61,Custom,G.I. Elic,2004,Customizer: Leonard Armstrong; HFF Souvenier;,1:6 figure,,,,Figure 4 of 4 duplicate figures,Alexander Hampshire,04.00,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,62,Custom,Humphrey Bogart as Rick Blaine from Casablanca,2004,Customizer: Leonard Armstrong with head by Bryan Pagan;,1:6 figure,,,,,Humphrey Bogart,desk.above.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+58,63,Custom,Kid Action as Robin,0,Customizer: Leonard Armstrong;,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,64,Custom,Righthand Man,0,Customizer: Leonard Armstrong; Uses bbi Dusty Rhodes figure with custom clothes;,1:6 figure,,,,,George Clooney,tv.left.top.lower,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,65,DC Direct/DC Collectibles,Aquaman,2006,,1:6 figure,Showcase Comics,59.99,,,,03.31,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,66,DC Direct/DC Collectibles,Batgirl Classic,2007,Grey costume,1:6 figure,Showcase Comics,,,,,shelf.20x15.05,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,67,DC Direct/DC Collectibles,Batgirl Variant,2007,Black costume,1:6 figure,Showcase Comics,,,,,TBD,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,68,DC Direct/DC Collectibles,Batman,2006,Grey & black costume,1:6 figure,Showcase Comics,69.99,,,,desk.left.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,69,DC Direct/DC Collectibles,Batman Classic,2007,Grey & blue costume,1:6 figure,Showcase Comics,69.99,,,,desk.left.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,70,DC Direct/DC Collectibles,Bizarro,2008,,1:6 figure,Showcase Comics,69.99,,,,03.34,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,71,DC Direct/DC Collectibles,Black Canary,2008,,1:6 figure,Showcase Comics,89.99,,,,03.04,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,72,DC Direct/DC Collectibles,Catwoman ,2007,,1:6 figure,Showcase Comics,69.99,,,,03.24,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,73,DC Direct/DC Collectibles,Catwoman Classic,2010,,1:6 figure,Amazon,64.5,,,,03.14,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,74,DC Direct/DC Collectibles,Flash,2007,,1:6 figure,Showcase Comics,59.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,75,DC Direct/DC Collectibles,Green Arrow,2008,,1:6 figure,Showcase Comics,80,,,,03.33,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,76,DC Direct/DC Collectibles,Green Lantern,2006,,1:6 figure,Showcase Comics,59.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,77,DC Direct/DC Collectibles,Green Lantern Corps,2008,Tomar Re; Abin Sur; NautKeLoi; Hal Jordan,1:6 figure,Showcase Comics,99.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,78,DC Direct/DC Collectibles,Harley Quinn,2008,,1:6 figure,Showcase Comics,79.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,79,DC Direct/DC Collectibles,Joker,2008,,1:6 figure,Showcase Comics,89.99,,,,03.27,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,80,DC Direct/DC Collectibles,Lex Luthor,2006,,1:6 figure,Showcase Comics,59.99,,,,03.35,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,81,DC Direct/DC Collectibles,Martian Manhunter,2007,,1:6 figure,Showcase Comics,69.99,,,,03.33,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,82,DC Direct/DC Collectibles,Nightwing,2007,,1:6 figure,Showcase Comics,,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,83,DC Direct/DC Collectibles,Power Girl,2007,,1:6 figure,Showcase Comics,69.99,,,,03.01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,84,DC Direct/DC Collectibles,Robin Classic,0,,1:6 figure,Showcase Comics,,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,85,DC Direct/DC Collectibles,Sgt. Rock,2009,,1:6 figure,Showcase Comics,90,,,,03.03,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,86,DC Direct/DC Collectibles,Shazam,2007,Captain Marvel,1:6 figure,Showcase Comics,59.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,87,DC Direct/DC Collectibles,Sinestro,2009,,1:6 figure,Stormwatch Comics,99.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,88,DC Direct/DC Collectibles,Supergirl Classic,2009,,1:6 figure,Showcase Comics,89.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,89,DC Direct/DC Collectibles,Superman,2005,"Year of release is estimated based on relase of next figure in series, Hal Jordan Green Lantern (2006).",1:6 figure,Hall of Heroes,,,,,desk.left.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,90,DC Direct/DC Collectibles,Superman Classic,2007,,1:6 figure,Showcase Comics,69.99,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,91,DC Direct/DC Collectibles,The Flash: The Golden Age,2009,,1:6 figure,Showcase Comics,99.99,,,,03.03,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,92,DC Direct/DC Collectibles,Two-Face,2006,,1:6 figure,Showcase Comics,59.99,,,,03.17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,93,DC Direct/DC Collectibles,Wonder Woman,2009,,1:6 figure,Amazon,79.45,,,,03.31,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,94,DC Direct/DC Collectibles,Zatana,2009,,1:6 figure,Showcase Comics,90,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,95,DiD,Bernard Law Montgomery,2009,,1:6 figure,Amazon,,,,Bernard Law Montgomery,03.09,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,96,DiD,HJ - Hitler Jugend,2007,,1:6 figure,,59.95,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,97,DiD,Winston Churchill,2013,Two hats in H.01,1:6 figure,,,,,Winston Churchill,desk.above.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+93,98,Dragon,"""Screaming Eagle"" 101st Airborne (Air Assault), Grenadier, Kevin",2001,,1:6 figure,,,,,,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,99,Dragon,"1st Infantry Division ""Big Red One"", (Sergeant) ""Dave"" (Normandy, 1944)",1999,Collector's Edition (750) includes Ron Volstad print;,1:6 figure,Small Blue Planet,41.99,,,,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,100,Dragon,"3rd Fallschirmjäger Division (Feldwebel), ""Meyer"" (Ardennes, 1944)",2001,,1:6 figure,Small Blue Planet,39.99,,,,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,101,Dragon,"5th SF Group Green Berets, Mike",2001,,1:6 figure,Small Blue Planet,34.99,,,,window.left.bottom.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,102,Dragon,"A.F.S.O.C. PJ, ""Bob""",2001,,1:6 figure,Small Blue Planet,44.99,,,,03.10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,103,Dragon,Apollo Astronaut,2002,Packaged in two parts: (1) Figure; (2) Base,1:6 figure,Small Blue Planet,,,,,03.00,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,104,Dragon,"Brothers in Arms, 1st Infantry Division ""Big Red One"", Ehlers Brothers",2003,Walt Ehlers died in the Normandy invasion and was awarded the MOH.,1:6 figure,,,,Figure 1 of 2 duplicate figures,Walt & Roland Ehlers,03.28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,105,Dragon,"Brothers in Arms, 1st Infantry Division ""Big Red One"", Ehlers Brothers",2003,Walt Ehlers died in the Normandy invasion and was awarded the MOH.,1:6 figure,,,,Figure 2 of 2 duplicate figures,Walt & Roland Ehlers,03.28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,106,Dragon,"Coldstream Guard, Guardsman Malcolm Parks",2002,,1:6 figure,,,,,,window.left.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,107,Dragon,Danger Girl - Abbey Chase,2002,,1:6 figure,,,,,,03.29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+102,108,Dragon,"General George S. Patton, Jr., Commander, U.S. Third Army",2004,,1:6 figure,,,,,George S. Patton,window.left.top.upper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,109,Dragon,"Hong Kong Police Special Duties Unit (SDU), ""Michael Chan""",1999,,1:6 figure,,,,,,03.30,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,110,Dragon,"Kriegsmarine Warrant Officer (Stabsbootsmann), Georg (Dieppe, 1942)",2002,,1:6 figure,The Duffle Bag,36,,,David Duchovny,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,111,Dragon,"Red Army Rifles NCO (Sergeant), Yuri (Leningrad, 1941)",2002,,1:6 figure,,,,,,03.36,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,112,Dragon,"Royal Canadian Mounted Police (RCMP), John Steele",2000,,1:6 figure,,,35,"Wears traditional RCMP red tunic, navy crop pants, and tan campaign hat",,window.left.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,113,Dragon,"The Desert Fox (Generalfeldmarschall), ""Rommel"" (North Africa, 1942)",2001,Included display case;,1:6 figure,,45,,,Erwin Rommel,window.right.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,114,Dragon,"U.S. Army Special Ops. Sergeant, ""Brian"" (Kuwait City, 1991, Gulf War 10th Anniversary)",2001,,1:6 figure,Small Blue Planet,39.99,,,,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,115,Dragon,"U.S. Marines, ""Russell"" (Khe Sanh, 1968)",2001,,1:6 figure,Small Blue Planet,34.99,,,Russell Crowe,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,116,Dragon,"U.S. Military Mission-Oriented Protective Posture (MOPP) (Nuclear, Biological, Chemical (NBC)), ""Flip""",2002,Military branch unspecified - I made it Army;,1:6 figure,,,,,,03.31,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,117,Dragon,"U.S. Navy SEAL Team 3 Combat Swimmer, ""Stan",2001,,1:6 figure,,,,,,03.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+112,118,Dragon,"U.S. Navy SEAL Team Six, ""Steve""",2000,,1:6 figure,,,,,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+113,119,Dragon,"U.S.A.A.F. Bomber Captain, ""Skip""",2001,,1:6 figure,,,,,,window.right.top.lower,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,120,Dragon,"U.S.A.F. Thunderbirds Pilot, Brian Bishop, Leader",2001,,1:6 figure,,,,,"Brian Bishop, U.S.A.F.",03.11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,121,Dragon,"U.S.M.C. M.O.U.T, ""Duane""",2001,M.O.U.T. = Military Operations on Urban Terrain,1:6 figure,,,,,,desk.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,122,Dragon,"U.S.M.C. Sniper, ""Jack"" (Pussan, 1950)",2000,,1:6 figure,Small Blue Planet,39.99,,,,03.10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,123,Dragon,"Wiking Division Panzer Officer (Urbersturmfüher) ""Fritz"" (Poland, 1944)",1999,,1:6 figure,,,,,,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,124,Drastic Plastic,Franklin D. Roosevelt,2002,,1:6 figure,,,,,Franklin D. Roosevelt,tv.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+119,125,Dreams and Visions,Air Police,2004,,1:6 figure,,,,,,03.00,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,126,Dreams and Visions,Blackhawk Boxed Set,2002,"Comes with carded sets ""Air Rescue"" and ""Ice Troops""; Licensed product; Hasbro; DC Comics;",1:6 figure,Small Blue Planet,,,Figure 1 of 3. Blue Blackhawk uniform with brimmed pilot's cap.,,shelf.20x15.02,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,127,Dreams and Visions,Blackhawk Boxed Set,2002,"Comes with carded sets ""Air Rescue"" and ""Ice Troops""; Licensed product; Hasbro; DC Comics;",1:6 figure,Small Blue Planet,,,Figure 2 of 3. Air Rescue on spare G.I. Joe (Timeless?) figure.,,03.34,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,128,Dreams and Visions,Blackhawk Boxed Set,2002,"Comes with carded sets ""Air Rescue"" and ""Ice Troops""; Licensed product; Hasbro; DC Comics;",1:6 figure,Small Blue Planet,,,Figure 3 of 3. Ice Troops outfit on spare G.I. Joe (Timeless Collection?) figure.,,desk.right.top.lower,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,129,Dreams and Visions,Enemy Ace,2003,"Comes with carded sets ""Knight of the Sky"" and ""Duel with the Ace"";  Licensed product; Hasbro; D.C. Comics",1:6 figure,,,,Figure 1 of 2; Knight of the Sky outfit on Enemy Ace figure that came with set.,,03.35,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,130,Dreams and Visions,Enemy Ace,2003,"Comes with carded sets ""Knight of the Sky"" and ""Duel with the Ace"";  Licensed product; Hasbro; D.C. Comics",1:6 figure,,,,Figure 2 of 2; Duel with Ace (on Dragon figure),,03.12,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,131,Dreams and Visions,Jackie Johnson from Sgt. Rock and the Men of Easy Company,2002,Licensed product; Hasbro;,1:6 figure,,,,,,03.29,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,132,Dreams and Visions,"Mademoiselle Marie, Underground Demolition Operation Set",2002,Licensed product; Hasbro;,1:6 figure,,,,,,03.29,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,133,Dreams and Visions,"Miss Fear, Sword of the Dragon Set",2003,Licensed product; Hasbro; Elite Force;,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,134,Dreams and Visions,Sgt. Rock Boxed Set,2000,"Comes with carded sets ""Winter Combat"" and ""U.S. Army EM Uniform""",1:6 figure,,,,Combat uniform,,03.03,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,135,Dreams and Visions,Sgt. Rock Boxed Set,2000,"Comes with carded sets ""Winter Combat"" and ""U.S. Army EM Uniform""; ",1:6 figure,,,,EM uniform set on 2nd custom figure with Bryan Pagan head,,window.left.top.lower,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,136,Dreams and Visions,U.S. Army Tank Crewman,2004,Licensed product; Hasbro; White-haired version;,1:6 figure,,,,,,window.left.top.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,137,Dreams and Visions,U.S. Navy Ordinance,2004,White haired figure;,1:6 figure,Dreams and Visions,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+129,138,Dreams and Visions,U.S.M.C. Raider,2004,,1:6 figure,,,,,,03.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,139,Dreams and Visions,Unknown Soldier,2004,Exclusive black trench coat & box version;,1:6 figure,,,,,,desk.above.03,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,140,Dynamite,Vampirella (Asian Edition),2017,,1:6 figure,Entertainment Earth,144.99,,,,window.right.bottom.upper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,141,Enterbay,"Bruce Lee - ""Game of Death""",2006,NOTE: Accessories left in original box.,1:6 figure,,,,,Bruce Lee,Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+133,142,Ertl,Top Cop,1998,Box signed by Don Levine,1:6 figure,Don Levine at toy show in Pennsauken,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+134,143,Ertl,Top Jake,1998,Box signed by Don Levine,1:6 figure,Don Levine at toy show in Pennsauken,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,144,Figures Toy Company,Evel Kneivel (White outfit),2013,,1:6 figure,Entertainment Earth,79.99,,,Evel Kneivel,desk.above.02,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+136,145,Forever Fun,Captain Action as Spider-Man,2012,,1:6 figure,,,,,,03.27,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,146,Formative,Mechanic - U.S. Army Air Force,2002,,1:6 figure,,,,,,03.04,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,147,G.I. Joe Collector's Club,Adventurer (African American),2005,AA figure; Includes ATV cloisonne pin;,1:6 figure,G.I. Joe Collector's Club,43,22,,,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,148,G.I. Joe Collector's Club,Aged Adventurer,2004,Horseshoe baldie; 2004 G.I. Joe Convention souvenier figure,1:6 figure,G.I. Joe Collector's Club,72,,,,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,149,G.I. Joe Collector's Club,Air Adventurer,2002,"Life-like hair and beard; ""Life-like Hair and Beard"" cloisonne pin; Extra head due to hair color problem",1:6 figure,G.I. Joe Collector's Club,43,22,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,150,G.I. Joe Collector's Club,Arctic Adventurer,2007,Free with membership;,1:6 figure,G.I. Joe Collector's Club,0,,,,03.21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,151,G.I. Joe Collector's Club,Battle of Leyte Gulf,2002,"Two American uniforms (dress whites, battle khakis); Two Japanese uniforms (dress navy, battle dress); Only 1 of 2 Japanese uniforms currently on a Joe;",1:6 figure,G.I. Joe Collector's Club,,23,Figure 1 of 3: Navy Captain in dress whites,,window.left.top.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+142,152,G.I. Joe Collector's Club,Battle of Leyte Gulf,2002,"Two American uniforms (dress whites, battle khakis); Two Japanese uniforms (dress navy, battle dress); Only 1 of 2 Japanese uniforms currently on a Joe;",1:6 figure,G.I. Joe Collector's Club,,23,Figure 2 of 3: Navy Captain in battle khakis.,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+142,153,G.I. Joe Collector's Club,Battle of Leyte Gulf,2002,"Two American uniforms (dress whites, battle khakis); Two Japanese uniforms (dress navy, battle dress); Only 1 of 2 Japanese uniforms currently on a Joe;",1:6 figure,G.I. Joe Collector's Club,,23,Figure 3 of 3: Japanese Captain in Navy dress uniform,,winow.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+143,154,G.I. Joe Collector's Club,Clear Joe with Super Articulated Body,2002,Free with membership;,1:6 figure,G.I. Joe Collector's Club,0,22,,,03.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,155,G.I. Joe Collector's Club,Clear Joe with Timeless 40th Anniversary Body,2004,Free with membership;,1:6 figure,G.I. Joe Collector's Club,0,22,,,03.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,156,G.I. Joe Collector's Club,"Continental Color Guard, 3rd U.S. Infantry, ""The Old Guard""",1999,"Convention set ""General's Package""",1:6 figure,G.I. Joe Collector's Club,,23,Figure 1 of 2. Flag bearer,,03.07,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,157,G.I. Joe Collector's Club,"Continental Color Guard, 3rd U.S. Infantry, ""The Old Guard""",1999,"Convention set ""General's Package""",1:6 figure,G.I. Joe Collector's Club,,23,Figure 2 of 2. Rifle man,,03.07,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,158,G.I. Joe Collector's Club,Counter Culture Adventurer,2003,2003 G.I. Joe Collectors Club convention souvenier,1:6 figure,G.I. Joe Collector's Club,,,Wild flocked hair and chops;,,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,159,G.I. Joe Collector's Club,Foreign Adventurer,2006,Free with membership;,1:6 figure,G.I. Joe Collector's Club,0,,,,03.36,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,160,G.I. Joe Collector's Club,Green Beret (reproduction outfit on vintage Action Soldier),2007,Vintage figure given to me by John Van Note; Boots from Marine Beachhead set,1:6 figure,G.I. Joe Collector's Club,0,,,,window.left.bottom.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,161,G.I. Joe Collector's Club,Kursk - The Greatest Armored Battle of All Time,2003,Licensed product; Hasbro; One figure talks in German; One figure talks in Russian;,1:6 figure,G.I. Joe Collector's Club,,23,Figure 1 of 2; German tank commander,,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,162,G.I. Joe Collector's Club,Kursk - The Greatest Armored Battle of All Time,2003,Licensed product; Hasbro; One figure talks in German; One figure talks in Russian;,1:6 figure,G.I. Joe Collector's Club,,23,Figure 2 of 2; Russian tank commander,,03.34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,163,G.I. Joe Collector's Club,Land Adventurer,2000,Lifelike hair and beard;,1:6 figure,eBay,,22,Camoflauge BDUs;,,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,164,G.I. Joe Collector's Club,Man of Asia,2008,Flocked Asian head; Dressed in separate Kung Fu outfit,1:6 figure,G.I. Joe Collector's Club,0,22,,,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,165,G.I. Joe Collector's Club,Navy Honor Guard,2004,Free with Convention General's Package; Set was uniform on cards only - used available figure;,1:6 figure,G.I. Joe Collector's Club,0,,,,03.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153,166,G.I. Joe Collector's Club,Philippine Invader,2002,2002 G.I. Joe Convention Souvenier figure,1:6 figure,G.I. Joe Collector's Club,39,23,,,window.left.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,167,G.I. Joe Collector's Club,Pony Express,2001,Includes horse; Purchased at 2002 Con; Needs new picture;,1:6 figure,G.I. Joe Collector's Club,,23,Figure 1 of 2 duplicate figures,,03.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+154,168,G.I. Joe Collector's Club,Pony Express,2001,Includes horse; Purchased at 2002 Con; Needs new picture;,1:6 figure,G.I. Joe Collector's Club,,23,Figure 2 of 2 duplicate figures. Is this a mistake? Do I really own a second one of these figures?,,02.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+155,169,G.I. Joe Collector's Club,Sea Adventurer,2003,Reproduction Adventure Team figure; Life-like hair and beard; Sea sled cloisonne pin,1:6 figure,G.I. Joe Collector's Club,43,22,,,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,170,G.I. Joe Collector's Club,Talking Adventure Team Commander,2003,"Life-like hair and beard; ""I've got a tough assignment for you"" cloisonne pin; Extra head due to beard sculpt problem",1:6 figure,G.I. Joe Collector's Club,53,22,,,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,171,G.I. Joe Collector's Club,Talking Astronaut,2003,"Reproduction; Talker; White jump suit, hat, snoopy cap, 2 types of boots",1:6 figure,G.I. Joe Collector's Club,53,22,,,03.09,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,172,G.I. Joe Collector's Club,Unknown Heroes of WWII,2004,"Incudes two carded sets - Field Triage, Service Dress; Dress uniforms on add'l figures;",1:6 figure,G.I. Joe Collector's Club,,23,Figure 1 of 4; Navy/Marine Pharmacist Mate in BDU greens,,desk.right.top.upper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,173,G.I. Joe Collector's Club,Unknown Heroes of WWII,2004,"Incudes two carded sets - Field Triage, Service Dress; Dress uniforms on add'l figures;",1:6 figure,G.I. Joe Collector's Club,,23,Figure 2 of 4; Navy Dress Whites,,03.27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,174,G.I. Joe Collector's Club,Unknown Heroes of WWII,2004,"Incudes two carded sets - Field Triage, Service Dress; Dress uniforms on add'l figures;",1:6 figure,G.I. Joe Collector's Club,,23,Figure 3 of 4; 10th Mountain Division Medic,,03.27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,175,G.I. Joe Collector's Club,Unknown Heroes of WWII,2004,"Incudes two carded sets - Field Triage, Service Dress; Dress uniforms on add'l figures;",1:6 figure,G.I. Joe Collector's Club,,23,Figure 4 of 4; Army Service Dress,,window.left.top.lower,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,,Hasbro,Action Marine Beachhead Set,2003,Set #8; Figure currently used elsewhere; Boots used for Green Beret repro,1:6 figure,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,176,Hasbro,Action Marine Communications Set,2003,Set #3,1:6 figure,,,,,,03.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,177,Hasbro,Action Marine Dress Parade Set,2003,Set #11;,1:6 figure,,,,,,window.left.top.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,178,Hasbro,Action Marine Dress Parade Set,2003,Set #11;,1:6 figure,,,,,,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,179,Hasbro,Action Marine Medic,2003,Set #9;,1:6 figure,,,50,,,03.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,180,Hasbro,Action Pilot Dress Uniform,2005,,1:6 figure,G.I. Joe Collector's Club,,22,,,window.left.top.middle,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,181,Hasbro,Action Pilot Parade Dress (Vintage),1964,Repro tie;,1:6 figure,G.I. Ace,,,,,04.00,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,182,Hasbro,Action Pilot Survival Set,2003,Set #4;,1:6 figure,,,,,,03.32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,183,Hasbro,Action Sailor,1999,"Comes with life raft, oar, signal light, 2 semiphore flags., rifle, while and blue helmet, sailor cap. Dressed in daily blues.",1:6 figure,,,43,Blond painted head.,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+168,184,Hasbro,Action Sailor Frogman,2003,Set #2;,1:6 figure,,,,,,03.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+169,185,Hasbro,Action Sailor Navy Attack,2003,Set #7; Needs plastic sailor hat,1:6 figure,,,,,,03.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+170,,Hasbro,Action Soldier Accessory Set,2003,Set #6; Figure currently used elsewhere;,1:6 figure,,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,186,Hasbro,Action Soldier Combat Attack Set,2003,Set #1,1:6 figure,,,,Blond haired figure. Figure has a broken arm at the elbow joint. A new figure has been ordered off Ebay (07.08.2018),,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,187,Hasbro,Action Soldier Combat Soldier (23rd Set in the Series),2005,"Set #23, was sold exlcusively by G.I. Joe Collector's Club; Also referred to as ""Soldier Field Equipment"" and sometimes other names.",1:6 figure,G.I. Joe Collector's Club,,22,Using a spare black-haired Timeless collection figure as I do not beleive the set came with its own figure.,,window.left.top.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,188,Hasbro,Action Soldier Military Police,2003,Set #5;,1:6 figure,,,,Figure in olive drab MP outfit.,,03.33,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+174,189,Hasbro,Air Force Academy Cadet,2002,Part of a 2 figure set including American Cadet Alliance Marine,1:6 figure,FAO Schwarz,,18,,,window.left.top.lower,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,190,Hasbro,Airborne at Normandy (Normandy Paratrooper),2000,"Listed on storage bag as ""Normandy Paratrooper""",1:6 figure,,,,,,window.left.top.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,191,Hasbro,American Cadet Alliance Marine,2002,Part of a 2 figure set including Air Force Academy Cadet,1:6 figure,FAO Schwarz,,18,Red tunic. White pants. White hat with black brim.,,desk.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,192,Hasbro,Army Golden Knight,1997,AA Figure; Two outfits (black and gold);,1:6 figure,FAO Schwarz,140,18,,,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,193,Hasbro,Army Weapons Instructor,2000,Very basic (lame) figure;,1:6 figure,,,,,,03.22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,194,Hasbro,Battleship Row Defender,2000,Includes large .50 caliber anti-aircraft gun;,1:6 figure,,,,,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+180,195,Hasbro,Black Spider Rendezvous,2002,,1:6 figure,,,,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,196,Hasbro,Bulletman (Vintage),1976,,1:6 figure,eBay,,,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,197,Hasbro,Challenge at Hawk River,1998,White water raft; Hawk;,1:6 figure,,,,Caucasian male with black life-like hair and goatee!,,shelf.door,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,198,Hasbro,Cobra Commander,2003,,1:6 figure,,,,,,03.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+184,199,Hasbro,Colonel Buzz Aldrin,1999,,1:6 figure,,,,,Buzz Aldrin,03.34,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,200,Hasbro,Crash Crew,1966,May be reproduction tool belt; No fire extinguisher;,1:6 figure,Atlantique City,,,,,03.26,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,201,Hasbro,Danger of the Depths,2002,AA figure with life-like hair and beard and kung-fu grip; Includes shark; Orange wet suit;,1:6 figure,,,,Orange-suited diver with a suit that is rotted to hell.,,03.03,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,2464,Hasbro,Danger of the Depths,2002,AA figure with life-like hair and beard and kung-fu grip; Includes shark; Orange wet suit;,1:6 figure,,,,The shark - about 6-7' long ion 1:6 scale,,03.23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,202,Hasbro,Deep Sea Diver - Danger of the Depths,1999,Diecast acessories;,1:6 figure,KB Toys,49.99,30,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+188,203,Hasbro,Delta Soldier,1999,Includes 35th Anniversary patch,1:6 figure,KB Toys,27.99,,,,03.48,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,204,Hasbro,Army Ranger Desert Recon,2002,,1:6 figure,,,,,,03.48,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,205,Hasbro,Dress Marine,1996,Colton body;,1:6 figure,Toys R Us,19.99,,,,03.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,206,Hasbro,Dusty,2001,,1:6 figure,,,,,,03.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+192,207,Hasbro,Eight Ropes of Danger,2002,Kung Fu Grip,1:6 figure,,,,,,desk.right.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,208,Hasbro,Ernie Pyle,2001,"Comes with desk, typewriter and other goodies.",1:6 figure,,,,,Ernie Pyle,03.10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,209,Hasbro,Footlocker and 1964 Action Soldier,2003,,1:6 figure,Target,,43,,,04.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,210,Hasbro,French Resistance Fighter (Vintage),1966,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,211,Hasbro,Friendship 7,2000,Friendship VII space capsule; ,1:6 figure,FAO Schwarz,65,18,,,03.28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,212,Hasbro,General George S. Patton,1997,"Includes dog ""Willie""",1:6 figure,,,,,George S. Patton,window.left.top.upper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,213,Hasbro,"General of the Army Douglas MacArthur, Medal of Honor Recipient",2003,,1:6 figure,,,,,Douglas MacArthur,window.left.top.upper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,214,Hasbro,Green Beret Machine Gun Outpost Set,2001,,1:6 figure,,,29,,,window.left.bottom.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,215,Hasbro,Hero's Homecoming Navy Sailor,2002,,1:6 figure,,,,,,03.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+201,216,Hasbro,Home for the Holidays Soldier,1996,"""Colton"" body;",1:6 figure,Wal-Mart,,50,,,03.17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,217,Hasbro,Honor Guard,2000,Dress uniform used at the Tomb of the Unknown Soldier,1:6 figure,Small Blue Planet,19.99,,,,window.left.top.lower,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,218,Hasbro,Indiana Jones Epic Stunt Spectacular,2004,Includes mummy,1:6 figure,Walt Disney World,40,12,,,03.12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+204,219,Hasbro,John F. Kennedy: PT 109 Boat Commander,1999,,1:6 figure,,,,,John F. Kennedy,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+205,220,Hasbro,Lieutenant Col. Teddy Roosevelt,1999,Also politician;,1:6 figure,,,,,Teddy Roosevelt,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+206,221,Hasbro,M.O.P.P. Marine,2000,,1:6 figure,Small Blue Planet,24.99,,,,desk.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,222,Hasbro,Marine Jungle Fighter,1999,Included shadow box display case;,1:6 figure,FAO Schwarz,,18,,,03.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,223,Hasbro,Marine Scout Marksman,2004,,1:6 figure,,,,,,desk.right.top.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,224,Hasbro,Medal of Honor Recipient Roy P. Benavidez,2001,,1:6 figure,,,,,Roy Benavidez,03.12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,225,Hasbro,"Mike Power, Atomic Man (vintage)",1975,,1:6 figure,eBay,,,,,tv.left.top.upper,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,226,Hasbro,Military Police,2002,Aqua-tinted outfit; Black & gold helmet; Die-cast machine gun,1:6 figure,J.C. Penney,,29,,,window.left.bottom.middle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,227,Hasbro,Millenium Salute,1999,Saluting arm;,1:6 figure,,,,,,03.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,228,Hasbro,Mission Space,2004,,1:6 figure,Walt Disney World,40,12,,,03.28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,229,Hasbro,Navajo Code Talker,1999,Talks in both English and Navajo,1:6 figure,,,,,,desk.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,230,Hasbro,Navy Crash Crew,2001,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+216,231,Hasbro,Navy Deep Sea Diver,2003,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+217,232,Hasbro,Navy Dolphin Handler,2004,,1:6 figure,,,,,,03.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+218,233,Hasbro,Navy SEAL Rapid Rappel,2003,Figure slides down rappel rope;,1:6 figure,,,,,,03.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+219,234,Hasbro,Ninja Showdown Snake Eyes vs Storm Shadow,2003,"Included ""Spy Troops - The Movie"" DVD",1:6 figure,,,,Figure 1 of 2 duplicate figures,,03.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+219,235,Hasbro,Ninja Showdown Snake Eyes vs Storm Shadow,2003,"Included ""Spy Troops - The Movie"" DVD",1:6 figure,,,,Figure 2 of 2 duplicate figures,,03.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+220,236,Hasbro,Operation: Midnight Recon,2000,,1:6 figure,Gift,,,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+221,237,Hasbro,Pearl Harbor Army Air Corps Pilot Display Set,2000,Includes 2 die cast fighter planes;,1:6 figure,,,,,,window.left.top.lower,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,238,Hasbro,Perilous Rescue (black rubber wetsuit),2000,,1:6 figure,Target,,43,,,03.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+223,239,Hasbro,Perils of the Raging Inferno (blond with goatee),1999,1st of 2 sets,1:6 figure,,,,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,240,Hasbro,Perils of the Raging Inferno (Red-head with goatee),1999,2nd of 2 sets,1:6 figure,,,,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,241,Hasbro,Rendezvous at Danger Pass,2004,With reproduction box;,1:6 figure,,,33,,,03.24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,242,Hasbro,Rescue of the Lost Squadron,1999,Includes dog sled;,1:6 figure,Toys R Us,,47,,,desk.right.top.lower,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,243,Hasbro,Salute to the Chiefs,2005,"Comes with three uniforms: khaki, dress blues, dress whites;",1:6 figure,,,,Khaki uniform on display.,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+228,244,Hasbro,Scramble Pilot,2000,,1:6 figure,G.I. Elic,,43,,,TBD,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,245,Hasbro,Search for the Radioactive Satellite,2004,With reproduction box;,1:6 figure,,,33,,,03.14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,246,Hasbro,Search for the Yeti (G.I. Joe figure),2002,Need to combine 230 & 231,1:6 figure,,,,,,"desk,right.top.lower",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,247,Hasbro,Search for the Yeti (Yeti Figure),2002,Need to combine 230 & 231,1:6 figure,,,,,,desk.right.top.lower,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,248,Hasbro,Secret Mission to Spy Island,1999,,1:6 figure,Ames,19.99,28,"Camoflauge BDUs, knit cap, detonator;",,tv.left.top.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+233,249,Hasbro,Secret of the Mummy's Tomb (reimagined),2001,Includes mummy,1:6 figure,,,,,,tv.right.top.upper,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,250,Hasbro,Search for the Mummy's Tomb (vintage),1970,Vintage figure; Includes mummy and ATV vehicle.,1:6 figure,eBay,,,,,shelf.door,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,251,Hasbro,Skydive to Danger,2003,FAO went out of business before this exclusive hit the shelves officially.,1:6 figure,,,18,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,252,Hasbro,Talking Action Pilot,2000,Talking figure; String no longer retracts;,1:6 figure,,,,,,03.00,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,253,Hasbro,Talking Action Sailor,2002,Diecast acessories; Do I really have 2 of these?,1:6 figure,,,,,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+238,254,Hasbro,Talking Action Sailor,2002,Diecast acessories; Do I really have 2 of these?,1:6 figure,,,,,,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+239,255,Hasbro,The Battle of Salerno and the Italian Campaign of WWII,2001,Includes mini Life Magazine,1:6 figure,Gift,,,,,03.26,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,256,Hasbro,U.S. Army Taekwondo Trainer,2002,,1:6 figure,,,,,,03.19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+241,257,Hasbro,U.S. Coast Guard,1998,,1:6 figure,,5,,,,03.01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,258,Hasbro,Undercover Agent,2002,,1:6 figure,,,,,,window.right.bottom.middle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+243,259,Hasbro,Vietnam Nurse,1999,Female figure,1:6 figure,,,,,,03.23,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,260,Hasbro,Vietnam Wall Memorial,2000,Includes illuminated wall;,1:6 figure,Gift,,,,,03.00,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,261,Hasbro,Voice FX Duke,2004,Duke talks soft or loud depending on how hard you press his tummy;,1:6 figure,,,,,,03.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+246,262,Hasbro,West Point & Annapolis Cadets,2001,Two figures; Also includes Navy;,1:6 figure,FAO Schwarz,,18,Figure 1 of 2 duplicate figures,,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+246,263,Hasbro,West Point & Annapolis Cadets,2001,Two figures; Also includes Navy;,1:6 figure,FAO Schwarz,,18,Figure 2 of 2 duplicate figures,,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+247,264,Hasbro,Wild Bill,2003,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+248,265,Hasbro,World War I German Infantry Senior Corporal 1st Westphalian Regiment,2003,Club distribution of Hasbro product; No box provided;,1:6 figure,G.I. Joe Collector's Club,,,,,03.20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,266,Hasbro,WWII European Theater,2002,Head is currently off figure but can be replaced;,1:6 figure,,3.48,,,,04.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,267,Hero Builders,Talking Baghdad Bob (Iraqi Minister of Dis-information),2004,,1:6 figure,,,,,Iraqi Information Minister Muhammed Saeed al-Sahaf ,03.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+251,268,Hero Builders,"Talking Howard Dean, Volume 2",2004,"""I have a scream"" version;",1:6 figure,,,,,Howard Dean,03.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+252,269,Hero Production,Soul of the Dragon,2004,Anime-like head;,1:6 figure,,,,,Bruce Lee (Anime),03.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+253,270,Hot Toys,300 King Leonidas,2010,,1:6 figure,Sideshow Collectibles,149.99,,,Gerard Butler,04.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+254,271,Hot Toys,Armored Batman (Batman v. Superman),2016,MMS 349,1:6 figure,Sideshow Collectibles,249.99,,,Ben Affleck,desk.left.top.upper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+255,272,Hot Toys,Batman (1989 Version) DX Series (DX09),2012,,1:6 figure,Sideshow Collectibles,239.99,,,Michael Keaton,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+256,273,Hot Toys,Batman 1966,2014,MMS 218,1:6 figure,Sideshow Collectibles,204.99,,Contains multiple portraits,Adam West,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+257,274,Hot Toys,Blade II,2010,,1:6 figure,Sideshow Collectibles,159.99,,,Wesley Snipes,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+258,275,Hot Toys,Captain America - The First Avenger,2011,World War II Version,1:6 figure,Sideshow Collectibles,169.99,,,Chris Evans,tv.right.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+259,276,Hot Toys,Chewbacca,2015,"MMS 263;
+Part of a 2 figure set with Han Solo;
+Episode IV - A New Hope version;
+Price not included. Total price provide on Han Solo line item",1:6 figure,Sideshow Collectibles,,,,,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+260,277,Hot Toys,Combat Aircrew Pilot (F-14),2000,,1:6 figure,,,,,Tom Cruise,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+261,278,Hot Toys,Famous Type Figure (George Lucas),2000,,1:6 figure,,,,,George Lucas,shelf.20x15.02,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,279,Hot Toys,First Order TIE Pilot,2015,MMS 324,1:6 figure,Sideshow Collectibles,199,,,,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+263,280,Hot Toys,Han Solo,2015,"MMS 263;
+Part of a 2 figure set with Chewbacca;
+Episode IV - A New Hope version",1:6 figure,Sideshow Collectibles,479.99,,,Harrison Ford,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+264,281,Hot Toys,Inglorious Basterds: Lt. Aldo Raine,2010,,1:6 figure,Urban Collector,151.99,,,Brad Pitt,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+265,282,Hot Toys,Iron Man Mark III,2008,,1:6 figure,Sideshow Collectibles,,,,Robert Downey JR.,tv.right.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+266,283,Hot Toys,Luke Skywalker (Bespin Outfit) - Battle Damaged figure,2012,DX07; Display elements in separate bag,1:6 figure,Sideshow Collectibles,,,,Mark Hamill,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+267,284,Hot Toys,Luke Skywalker (Bespin Outfit) - Regular figure,2012,DX07; Display elements in separate bag,1:6 figure,Sideshow Collectibles,,,Khaki outfit.,Mark Hamill,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+268,285,Hot Toys,Luke Skywalker (from A New Hope),2015,MMS #297,1:6 figure,Sideshow Collectibles,,,White Tattooine outfit.,Mark Hamill,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+269,286,Hot Toys,"Michael Jackson, Thriller Version (Regular Michael)",2009,Thriller; zombie; ,1:6 figure,Sideshow Collectibles,189.99,,Red leather pop star Michael Jackson.,Michael Jackson,03.08,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,287,Hot Toys,"Michael Jackson, Thriller Version (Zombie Michael)",2009,Thriller; zombie; ,1:6 figure,Sideshow Collectibles,189.99,,Zombie Michael Jackson from Thriller video,Michael Jackson,window.right.bottom.upper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,288,Hot Toys,"Naval Special Warfare Development Group ""DEVGRU""",2003,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+272,289,Hot Toys,"Robin, The Boy Wonder",2014,MMS 219,1:6 figure,Sideshow Collectibles,189.99,,,Burt Ward,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+273,290,Hot Toys,"SAS (Special Air Service) HALO Troop, Desert Operations",2002,,1:6 figure,Small Blue Planet,,,,,window.left.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,291,Hot Toys,Selina Kyle,2013,,1:6 figure,Zolocon,225,,,Anne Hathaway,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+275,292,Hot Toys,Stormtrooper,2015,,1:6 figure,Sideshow Collectibles,,,,,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+276,293,Hot Toys,Superman (Batman v. Superman),2016,MMS 343,1:6 figure,Sideshow Collectibles,209.99,,,Henry Cavill,desk.left.top.upper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+277,294,Hot Toys,T800 - Terminator 2,2010,,1:6 figure,Sideshow Collectibles,164.99,,,Arnold Schwarzenegger,shelf.20x15.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+278,295,Hot Toys,The Dark Knight: Batman - Sonar (DX02),2009,,1:6 figure,Urban Collector,149.99,,,Christian Bale,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+279,296,Hot Toys,The Dark Knight: The Joker - Gotham City Police (DX01),2009,"2 of 2, Cop outfit; Extra uniform placed on a Hot Toys Tru-type figure with narrow shoulders",1:6 figure,Urban Collector,,,Joker without makeup as a member of the GCPD,Heath Ledger,window.left.bottom.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+280,297,Hot Toys,The Dark Knight: The Joker - Gotham City Police (DX01),2009,"1 of 2, Joker outfit",1:6 figure,Urban Collector,159.99,,,Heath Ledger,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+281,298,Hot Toys,The Godfather Don Vito Corleone (Sideshow Exclusive Version),2009,"Includes chair, cat, backdrop, etc.",1:6 figure,Sideshow Collectibles,149.99,,,Marlon Brando,desk.above.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+282,299,Ideal,Aqualad for Action Boy,1967,Mostly vintage; Some pieces are custom or reproduction;,1:6 figure,,,,,,03.36,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,300,Ideal,Aquaman for Captain Action,1966,"Mostly vintage; Some pieces (trident, gloves, boots) are custom or reproduction;",1:6 figure,,,,,,03.01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,301,Ideal,Batman for Captain Action,1966,"Mostly vintage; Some pieces (cape, gloves) are reproduction;",1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,302,In the Past Toys,Adolph Hitler,2000,,1:6 figure,,,,,Adoph Hitler,window.right.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+286,303,Jakks Pacific,Chris Jericho,2002,,1:6 figure,,,,,Chris Jericho,03.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+287,304,Jakks Pacific,Stone Cold Steve Austin,1999,,1:6 figure,,10,,,Stone Cold Steve Austin,03.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+288,305,Jakks Pacific,Triple H,2002,,1:6 figure,,,,,Triple H,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+289,306,Kenner,Action Man Crimson Warrior,1995,,1:6 figure,,,,,,03.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+290,307,Kenner,Army Football Quarterback,1998,,1:6 figure,,,,,,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+291,308,Kenner,Belgian Para-commando,1997,,1:6 figure,Connecticut Convention,0,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,309,Kenner,Bob Hope,1998,,1:6 figure,,,,,Bob Hope,desk.above.02,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,310,Kenner,Boba Fett,2004,,1:6 figure,,,,,,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+294,311,Kenner,F-15E Pilot,1996,,1:6 figure,FAO Schwarz,,18,,,02.00,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,312,Kenner,General Colin L. Powell,1998,,1:6 figure,,,,,Colin Powell,window.left.top.lower,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+296,313,Kenner,General Dwight D. Eisenhower,1997,,1:6 figure,,,,,Dwight D. Eisenhower,03.00,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+297,314,Kenner,Mission Splashdown,1998,Space capsule; White spacesuit + jumpsuit; African American figure,1:6 figure,Toys R Us,,,,,03.00,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,315,Kenner,Mission Splashdown,1998,Space capsule; White spacesuit + jumpsuit,1:6 figure,Toys R Us,,,,,TBD,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,316,Kenner,Navy Football Linebacker,1998,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+300,317,Kenner,Shuttle Astronaut Robert Crippen,1997,,1:6 figure,,,,,Robert Crippen,03.00,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,318,Kenner,U.S. 82nd Airborne (female),1998,G.I. Jane,1:6 figure,,,,,,03.28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,319,Kenner,U.S. Navy Blue Angel,1997,,1:6 figure,,,,,,03.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+303,320,Kenner,USS Connecticut Crewman SSN-22,1998,AA figure;,1:6 figure,Booksmith,,8,,,desk.right.top.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+304,321,Kings Toys,Joseph Stalin,2011,Chair in furniture box,1:6 figure,,,,Wearing green military unitform. Figure also comes with white jacket and black pants with red strips.,Joseph Stalin,window.right.bottom.lower,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+305,322,Lanard,Rapid Fire - Operation: Lion's Den,2003,,1:6 figure,,,,Molded top. Cloth pants.,,03.32,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,323,Majestic Studios,The Abominable Dr. Phibes,2005,,1:6 figure,,59.95,,,Vincent Price,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+307,324,Majic Productions,State Trooper,1997,,1:6 figure,Majic Productions,,23,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+308,325,Marx,Sheriff Garrett,1967,,1:6 figure,Toy Show in Pennsauken,,,,Dean Martin,03.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+309,326,Marx,"Sir Brandon, The Blue Knight & Horse",2001,,1:6 figure,,,,Sir Brandon,Dean Martin,desk.above.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+309,1462,Marx,"Sir Brandon, The Blue Knight & Horse",2001,,1:6 figure,,,,Armored horse,,desk.above.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+310,327,Mattel,Barbie and Krissy Stroll N' Play 3-in-1 Fun,2001,,1:6 figure,,,,,,REMOVED,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,328,Mattel,Barbie as Batgirl,2004,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,329,Mattel,Barbie as Wonder Woman,1999,DC Comics license;,1:6 figure,,,,,,03.03,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,330,Mattel,Betty Draper (Barbie),2010,,1:6 figure,Gift basket,,,,,03.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+314,331,Mattel,Bob Mackie Diamond Barbie,,,1:6 figure,,,,,,03.24,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,332,Mattel,Bob Mackie Emerald Barbie,,,1:6 figure,,,,,,03.17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,333,Mattel,Bob Mackie Ruby Barbie,,,1:6 figure,,,,,,03.11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,334,Mattel,Breakfast at Tiffany's Holly Golightly,1998,,1:6 figure,,,,,Audrey Hepburn,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+318,335,Mattel,Don Draper (Ken),2010,,1:6 figure,Gift basket,,,,,03.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+319,336,Mattel,"Frank Sinatra, The Recording Years",2000,,1:6 figure,,,,,Frank Sinatra,desk.above.02,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,337,Mattel,Go Kart Racer,2001,,1:6 figure,,,,,,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,338,Mattel,Irish Barbie,,,1:6 figure,Mom,,,,,03.16,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,339,Mattel,Joan Holloway (Barbie),2010,,1:6 figure,Gift basket,,,,,03.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+323,340,Mattel,Ken as Henry Higgins in My Fair Lady,1995,,1:6 figure,,50,,,,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+324,341,Mattel,May Emerald Barbie,2002,,1:6 figure,,,,,,03.36,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,342,Mattel,Mountain Climbing,2000,,1:6 figure,Small Blue Planet,9.99,,,,03.01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,343,Mattel,Roger Sterling (Ken),2010,Received in a gift basket,1:6 figure,,,,,,03.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+327,344,Mattel,Tornado Chaser,2000,Talking figure;,1:6 figure,,,,,,03.01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,345,Medicom,Darth Vader,2005,Helmet removes to revela Anakin Skywalker;,1:6 figure,,,,FIgure on the smaller side for Darth Vader.,,03.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+329,346,Medicom,"GSG-9 (Grenz Schutz Gruppe-9, The German Response to Terrorism",2001,Need better release date confirmation;,1:6 figure,,,,,,03.08,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,347,Medicom,James Bond from Dr. No,1998,,1:6 figure,,,,,Sean Connery,03.20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+331,348,Medicom,"The Rocketeer, Ver 2.0",2006,,1:6 figure,,,,,,shelf.20x15.04,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+332,349,Modeller's Loft,Cricketer,2006,,1:6 figure,Cotswold Collectibles,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+333,350,Modeller's Loft,Liverpool Footballer (Soccer Player),2006,,1:6 figure,Cotswold Collectibles,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+334,351,Modeller's Loft,The Royal Horse Guard (The Blues and Royals),2006,,1:6 figure,Cotswold Collectibles,,,,,window.left.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,352,N2 Toys,Neo,2000,Run of the mill Neo figure with a seemingly small head. ,1:6 figure,Hall of Heroes,18.95,,Dressed in black trenchcoat outfit.,Keanu Reeves,03.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+336,353,Old Joe Infirmary,Modern Surgical Uniform,2001,,1:6 figure,,,,,,03.31,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,354,Palisades,Joe Cabot,2001,,1:6 figure,,,,,Lawrence Tierney,03.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+338,355,Palisades,Mr Brown,2001,,1:6 figure,,,,,Quentin Tarantino,03.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+339,356,Palitoy,Argyll and Sutherland Highlander,1970,Some reproduction pieces;,1:6 figure,Barry Kay,,,,,window.left.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,357,Palitoy,Life Guard,1970,,1:6 figure,Barry Kay,,,,,window.left.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,358,Playing Mantis,Captain Action (1st packaging),1998,,1:6 figure,,,,03.08,,02.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,,Playing Mantis,Captain Action as Flash Gordon,1999,Figure used for other outfit. (Adam West??),1:6 figure,KB Toys,9.99,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+343,,Playing Mantis,Captain Action as The Lone Ranger (Red & black uniform),1998,Figure used for blue Lone Ranger costume;,1:6 figure,KB Toys,19.99,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+344,359,Playing Mantis,Captain Action as Tonto,1998,,1:6 figure,KB Toys,19.99,,,,03.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+345,360,Playing Mantis,"Dr. Evil as Ming the Merciless, Arch Enemy of Flash Gordon",1999,,1:6 figure,KB Toys,9.99,,,,03.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+346,361,Playing Mantis,"Dr. Evil, Captain Action's Arch Enemy (1st packaging)",1998,Large-box style packaging,1:6 figure,,,,,,03.22,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,362,Playing Mantis,"Dr. Evil, The Sinister Invader of Earth, Arch Enemy of Captain Action (Retro-style packaging)",1999,"Thin-box, retro style packaging;",1:6 figure,,,,,,TBD,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,363,Playing Mantis,"Kato, The Green Hornet's Sidekick, for Captain Action",2000,Equipment set put on Captain Action figure from earlier Playing Mantis Kato.,1:6 figure,Small Blue Planet,10.99,,,,03.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+349,364,Playing Mantis,"Kid Action, The Bold Adventurer Sidekick of Captain Action",2000,,1:6 figure,,,,,,03.29,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,365,Playing Mantis,The Green Hornet for Captain Action,2000,Equipment set put on Captain Action figure from earlier Playing Mantis Green Hornet.,1:6 figure,,,,,,03.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+351,366,Playing Mantis,The Lone Ranger for Captain Action (blue uniform),2000,,1:6 figure,,,,,,03.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+352,367,Product Enterprises,Count Dracula,2004,,1:6 figure,,55,,,Christopher Lee,shelf.20x15.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+353,368,Product Enterprises,The Avengers,2002,,1:6 figure,,,,Figure 1 of 2 duplicate figures,Patrick Mcnee & Diana Rigg,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+353,369,Product Enterprises,The Avengers,2002,,1:6 figure,,,,Figure 2 of 2 duplicate figures,Patrick Mcnee & Diana Rigg,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+354,370,Project ARE,Karate,2004,Custom uniform on blonde Dragon body;,1:6 figure,Project ARE,,,,,03.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+355,371,Round 2,Captain Action,2011,,1:6 figure,,,,,,03.00,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,372,Round 2,Captain Action,2011,,1:6 figure,,,,,,03.26,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,373,Round 2,Captain Action Arctic Adventurer,2012,,1:6 figure,,,,,,desk.right.top.lower,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,374,Round 2,Dr. Evil,2012,,1:6 figure,,,,,,03.20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,375,Round 2,Dr. Evil,2012,,1:6 figure,,,,,,03.18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,376,Sideshow,"6th/7th Battalion Black Watch, 51st (Highland) Division (WWI)",2001,,1:6 figure,,,,,,03.12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,377,Sideshow,Batman,2014,Three headsculpt with three separate facial portraits included.,1:6 figure,Sideshow Collectibles,199,40,On display: short eared cowl with straight mouth portrait,,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,378,Sideshow,C-3PO,2015,,1:6 figure,Sideshow Collectibles,,40,,,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+363,379,Sideshow,"C.G.B. Spender (AKA, The Cigarette Smoking Man) (Sideshow Excl. Vers.)",2004,,1:6 figure,,,,,William B. Davis,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+364,380,Sideshow,C.S. 57th Virginia Infantry,2001,Civil War,1:6 figure,,,,,,03.18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,381,Sideshow,Catwoman,2013,,1:6 figure,Sideshow Collectibles,189.99,,,,03.26,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,382,Sideshow,Civil War Union Soldier,,Inherited from dad. May be a 100th PA Infantry soldier.,1:6 figure,,,,"Gray pants, blue coat, blue hat.",,03.21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,383,Sideshow,Confederate Soldier,,Inheritied from dad. Probably 75th Virginia regiment,1:6 figure,Dad,,,"White pants, grey coat, grey whole-brimmed hat",,03.23,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,384,Sideshow,Creature from the Black Lagoon,2003,,1:6 figure,,,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+369,385,Sideshow,Crimson Cobra Commander,2009,,1:6 figure,Sideshow Collectibles,109.99,1,,,03.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+370,386,Sideshow,Darth Maul,2006,,1:6 figure,Hall of Heroes,54.99,,,Ray Parks,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+371,387,Sideshow,Darth Vader,2015,,1:6 figure,Sideshow Collectibles,249.99,,,,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+372,388,Sideshow,Dr. No - James Bond,2002,,1:6 figure,,,,,Sean Connery,window.right.bottom.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+373,389,Sideshow,Dracula - Count Dracula,2001,,1:6 figure,Small Blue Planet,24.99,,,Bela Lugosi,shelf.20x15.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+374,390,Sideshow,Dracula - Renfield,2001,,1:6 figure,,,,,Dwight Frye,03.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+375,391,Sideshow,Frankenstein - Fritz,2001,,1:6 figure,Small Blue Planet,24.99,,,Dwight Frye,03.20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+376,392,Sideshow,Frankenstein - The Monster,2000,,1:6 figure,,,,,Boris Karloff,shelf.20x15.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+377,393,Sideshow,Frankenstein meets the Wolf Man - The Monster,2001,,1:6 figure,,,,,Bela Lugosi,03.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+378,394,Sideshow,Get Smart - Maxwell Smart,2002,,1:6 figure,,,,,Don Adams,window.right.bottom.middle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+379,395,Sideshow,Get Smart - The Chief,2002,,1:6 figure,,,,,Edward Platt,03.20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+380,396,Sideshow,Goldfinger - Oddjob,2003,,1:6 figure,,,,,Harold Sakata,03.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+381,397,Sideshow,Gunnery Sgt. R. Lee Ermey,2001,Dress green uniform.,1:6 figure,,,,,R. Lee Ermey,desk.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,398,Sideshow,Gunnery Sgt. R. Lee Ermey - Dress Blues,2006,Talking figure;,1:6 figure,Hall of Heroes,39.99,,,R. Lee Ermey,03.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,399,Sideshow,Hogan's Heroes - Col. Robert Hogan,2002,,1:6 figure,,,,,Bob Crane,03.18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+384,400,Sideshow,Hogan's Heroes - Col. Wilhelm Klink,2002,,1:6 figure,,,,,Werner Klemperer,03.18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+385,401,Sideshow,Hogan's Heroes - Sgt. Hans Schultz,2002,,1:6 figure,,,,,John Banner,03.23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+386,402,Sideshow,House of Frankenstein - The Monster,2001,,1:6 figure,,,,,Glenn Strange,03.20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+387,403,Sideshow,Indiana Jones - Arnold Toht (Sideshow Exclusive Edition),2009,,1:6 figure,Sideshow Collectibles,169.99,40,,Ronald Lacey,03.21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+388,404,Sideshow,Indiana Jones from Raiders of the Lost Ark (Sideshow Exclusive Version),2008,,1:6 figure,Sideshow Collectibles,,,,Harrison Ford,03.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+389,405,Sideshow,Leia Organa (from A New Hope),2007,,1:6 figure,Hall of Heroes,54.99,,,Carrie Fisher,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+390,406,Sideshow,License to Kill - Franz Sanchez,2003,Includes Uzi & iguana,1:6 figure,Hall of Heroes,35.99,,,Robert Davi,03.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+391,407,Sideshow,London After Midnight - The Vampire,2001,,1:6 figure,,,,,Lon Chaney,03.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+392,408,Sideshow,Luke Skywalker (from Return of the Jedi),2006,,1:6 figure,,,,Black tunic. Hooded cape.,Mark Hamill,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+393,409,Sideshow,Nosferatu - The Vampyre,2001,,1:6 figure,,,,,Max Shreck,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+394,410,Sideshow,R2D2,2015,,1:6 figure,Sideshow Collectibles,149.99,,,,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+395,411,Sideshow,Scarface - Tony Montana Talking Figure,2005,,1:6 figure,,,,,Al Pacino,03.14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+396,412,Sideshow,Snake-Eyes (Commando) (Sideshow Exclusive Version),2009,,1:6 figure,Sideshow Collectibles,,,,,03.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+397,413,Sideshow,Superman - The Movie - Superman (Sideshow Exclusive),2011,,1:6 figure,Sideshow Collectibles,209.99,40,,Christopher Reeve,desk.left.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+398,414,Sideshow,The Bride of Frankenstein - The Bride,2001,,1:6 figure,Hall of Heroes,25.99,,,Elsa Lanchester,shelf.20x15.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+399,415,Sideshow,The Bride of Frankenstein - The Monster,2001,,1:6 figure,Hall of Heroes,25.99,,,Boris Karloff,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+400,416,Sideshow,The Hunchback of Notre Dame - Quasimodo,2004,,1:6 figure,Hall of Heroes,34.99,,,Lon Chaney,03.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+401,417,Sideshow,The Invisible Man - The Invisible Man,2005,,1:6 figure,Hall of Heroes,39.99,,,Claude Rains,shelf.20x15.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+402,418,Sideshow,The Mummy - Ardeth Bey,2004,,1:6 figure,,,,,Boris Karloff,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+403,419,Sideshow,The Mummy - The Mummy,2003,,1:6 figure,,,,,Boris Karloff,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+404,420,Sideshow,The Phantom of the Opera - Mask of the Red Death,2002,,1:6 figure,Hall of Heroes,29.99,,,Lon Chaney,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+405,421,Sideshow,The Phantom of the Opera - The Phantom,2001,,1:6 figure,Hall of Heroes,24.99,,,Lon Chaney,shelf.20x15.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+406,422,Sideshow,The Wolf Man - Bela the Gypsy,2001,,1:6 figure,Small Blue Planet,34.99,,,Bela Lugosi,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+407,423,Sideshow,The Wolf Man - Larry Talbot,2001,,1:6 figure,Small Blue Planet,,,,Lon Chaney Jr.,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+408,424,Sideshow,The Wolf Man - Wolf Man,2001,"Lon in his Wolf Man makeup with shirt and pants. I always wished they made this figure shirtless - like the Aurora Wolf Man model kit, even though I don't think Lon's Wolf Man ever appeared that way in the movies.",1:6 figure,Small Blue Planet,24.99,,,Lon Chaney Jr.,shelf.20x15.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+409,425,Sideshow,Thunderball - James Bond,2004,,1:6 figure,Hall of Heroes,39.99,,,Sean Connery,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+410,426,Sideshow,Van Helsing - Van Helsing,2004,,1:6 figure,,,,,Hugh Jackman,03.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+411,427,Sideshow,White Zombie - Murder Legendre,2001,,1:6 figure,Hall of Heroes,29.99,,,Bela Lugosi,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+412,428,Sideshow,Yoda ,2011,,1:6 figure,Sideshow Collectibles,74.99,40,,,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+413,429,Sideshow,Young Frankenstein - Frederick,2001,,1:6 figure,,,,,Gene Wilder,03.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+414,430,Sideshow,Young Frankenstein - Igor,2001,,1:6 figure,,,,,Marty Feldman,03.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+415,431,Sideshow,Young Frankenstein - The Monster,2001,,1:6 figure,,,,,Peter Boyle,03.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+416,432,Takara,S.S.S.P. Akiko Fuji,2003,Rooted hair version;,1:6 figure,,,,,Yuriko Hishimi,shelf.15x20.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+417,433,Toy Biz,Spider-Man,2001,,1:6 figure,Hall of Heroes,19.99,,,Toby Maguire,03.34,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+418,434,Toypresidents,George W. Bush Talking Action Figure,2003,,1:6 figure,,,,,George W. Bush,tv.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+419,435,Toypresidents,George Washington Talking Action Figure,2003,,1:6 figure,,30,,,George Washington,tv.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+420,436,Toypresidents,John F. Kennedy Talking Action Figure,2003,,1:6 figure,,,,,John F. Kennedy,tv.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+421,437,Toypresidents,Richard M. Nixon Talking Action Figure,2003,,1:6 figure,,,,,Richard M. Nixon,tv.right.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+422,438,Toys McCoy,Indiana Jones,1999,,1:6 figure,,,,,Harrison Ford,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+423,439,Toys McCoy,"Marilyn Monroe wearing B-15C Flying Jacket at Korea, 1954",2001,,1:6 figure,,,,,Marilyn Monroe,03.00,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,440,Triad Toys,Zorro,2011,,1:6 figure,Big Bad Toy Store,114.99,,,Timothy Dalton,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+425,441,Twinch Squad,2001 A Space Odyssey - Yellow suit,2002,Box not found;,1:6 figure,Eklyps,,,,,03.00,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+426,442,,Donovan McNabb,0,"Figure is ill proportioned and only 10 inches tall, but some accessories are good for 1:6 scale;",1:6 figure,,,,,Donovan McNabb,03.30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+427,443,,Miscellaneous Caucasian Female Figure,0,Molded short blonde hair wearing green camo and fingerless gloves;,1:6 figure,Small Blue Planet,3.99,,,,03.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,444,,Miscellaneous Caucasian Male Figure,0,"Blue/black ""camo"" with part white top and Tron-line helmet; Packaged ""H.E.R.O.E.S"";",1:6 figure,,,,,,03.30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,445,,Miscellaneous Caucasian Male Figure,0,"Solid green outfit with cheesy camo at the sleeves and Tron-like helmet; Packaged ""H.E.R.O.E.S"";",1:6 figure,,,,,,03.30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,446,,Miscellaneous Caucasian Male Figure,0,"Green/black ""camo"" with part white top and camo yarmulke.",1:6 figure,,,,,,03.30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,447,,Miscellaneous Caucasian Male Figure,0,"Blue police-like outfit and blue Tron-like helmet; Packaged ""Lieutenant Extreme.""",1:6 figure,,,,,,03.30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,448,,Miscellaneous Caucasian Male Figure,0,Nude Dragon brunette;,1:6 figure,,,,,,03.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,449,Valor USA,Rosie the Riveter,2002,,1:6 figure,,,,,,02.00,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,450,ZC World,Charlie Chaplin,2012,,1:6 figure,Timewalker Toys,179.99,,,Charlie Chaplin,desk.above.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+435,451,ZC World,Mr. Bean (Deluxe Version),2015,"Sofa in box 4.03. Reciept says ""Basic version"" but the figure has all extras from the Deluxe version.",1:6 figure,Cotswold Collectibles,203.99,,,Rowan Atkinson,desk.above.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+436,,,Furniture,,"Mr. Bean's sofa, Don Corleone's desk chair; FDR's wheelchair; Charlie Chaplin's chair; Stalin's chair",1:6 figure,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,452,Hot Toys,Thor - Thor: The Dark World,2013,Thor figure from Thor: The Dark World motion picture; Hot Toys MMS 224,1:6 figure,,199.99,,,Chris Hemsworth,tv.right.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+438,453,Craft One,Clockwork Alex,2016,"Alex from Stanley Kubrick's film, ""A Clockwork Orange",1:6 figure,Timewalker Toys,129.99,,,Malcolm McDowell,window.right.bottom.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,454,Hot Toys,Wonder Woman (Batman v. Superman),2017,Wonder Woman in standard costume from movie Batman v. Superman,1:6 figure,Sideshow Collectibles,234.99,,Wonder Woman in standard costume from movie Batman v. Superman,Gal Gadot,desk.left.top.upper,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+440,455,Hot Toys,Batman (Batman v. Superman),2016,Batman in standard costume from movie Batman v. Superman,1:6 figure,Sideshow Collectibles,234.99,,Wonder Woman in standard costume from movie Batman v. Superman,Gal Gadot,desk.left.top.upper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,456,Hot Toys,Daredevil,2017,Daredevil from the Marvel Netflix series. Multiple portraits included,1:6 figure,Sideshow Collectibles,229.99,,Displaying fight damage portrait,Charlie Cox,tv.right.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+1441,1456,Medicom,The Dark Knight Returns Batman,2014,Batman as seen in The Dark Knight Returns graphic novel.,1:6 figure,eBay,160,,"Dressed in grey tights with black trunks, boots, gloves, cape and cowl. Large black bat symbol on chest.",,desk.left.top.lower,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1442,1458,Phicen,Rocketman (George Wallace),2014,George Wallace as Commando Cody from the 1952 serial 'Radar Men from the Moon.',1:6 figure,Big Bad Toy Store,181.99,,Dressed in leather jacket with rocket pack and bullet-style helment.,George Wallace,shelf.20x15.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+1444,1460,Sphero,BB-8,2016,Remote-controlled BB-8. Possibly not true 1/6-scale.,1:6 figure,Bed Bath & Beyond,150,,,,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+1445,1461,Hongkong COO MODEL,Gothic Knight,2016,B,1:6 figure,Timewalker Toys,150,,,,desk.above.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+1447,1464,DiD,Napoleon Bonaparte,2017,French Emperor Napolean.,1:6 figure,Timewalker Toys,139.99,,"'Regular' version of Napolean. (Coat has white lapels, as opposed to 'Battle' version with navy lapels.)",,desk.above.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1448,1465,DiD,Martin Luther King Jr.,2014,Standard edition with overcoat and bible. No robes or podium.,1:6 figure,Timewalker Toys,149.99,,,Martin Luther King Jr.,desk.above.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2446,2463,Phicen,La Muerta,2016,Female horror comic protagonist from the graphic novel of the same name by Brian Pulido.,1:6 figure,Timewalker Toys,145.99,,Female figure dressed in Day of the Dead skelton costume with red wrap and scythe.,,window.right.bottom.upper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3446,3463,Phicen,Vincent Price Presents,2017,Vincent Price as dressed on the cover of Vincent Price Presents #1 (comics),1:6 figure,Timewalker Toys,163.99,,Vincent Price as dressed in Victorian garb on the cover of Vincent Price Presents #1 (comics). Ruffled shirt. Bow tie. Waistcoat. Victorian tailcoat.,Vincent Price,desk.above.02,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4446,4463,Hot Toys,Spider-Man (from Spider-Man: Homecoming),2017,Tom Holland as Spider-Man from the MCU,1:6 figure,Sideshow Collectibles,229.99,,Tom Holland as Spider-Man from the MCU's 'Spider-Man: Homecoming',Tom Holland,tv.right.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+5446,5463,Hot Toys,Yoda,2019,Yoda from Star Wars Episode II: Attack of the Clones,1:6 figure,Sideshow Collectibles,189,,"""Younger"" Yoda frm Attack of the Clones",,shelf.20x15.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5447,5464,Molecule 8,John Lennon,2018,John Lennon circa 1971,1:6 figure,Sideshow Collectibles,299.95,,Two outfits. Two heads. One guitar.,John Lennon,desk.above.02,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+5448,5465,Hot Toys,Black Panther,2019,"Black Panther from the film ""Black Panther""",1:6 figure,Sideshow Collectibles,259,,Two heads.,Chadwick Boseman,desk.right.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+5449,5466,Hot Toys,Thanos,2019,"Thanos from the film ""Avengers: Infinity War""",1:6 figure,Sideshow Collectibles,376,,,,desk.right.top.upper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+5450,5467,Hot Toys,Kylo Ren,2018,MMS438,1:6 figure,Sideshow Collectibles,235,,,Adam Driver,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+6447,6464,Mattel,Lieutenant Uhura,2016,"Star Trek, the Original Series, Lieutenant Uhura with communicator, tricorder, stand",1:6 figure,Grace,34.99,,"Star Trek, the Original Series, Lieutenant Uhura",Nichelle Nichols,03.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+7453,7468,Hot Toys,Ant-Man,2020,"Paul Rudd as Scott Lang, Ant-Man from ""Ant-Man and the Wasp"". Two headsculpts included, one masked, the other with the likeness of Paul Rudd.",1:6 figure,Sideshow Collectibles,219.03,,"Paul Rudd as Scott Lang, Ant-Man from ""Ant-Man and the Wasp""",Paul Rudd,desk.right.top.lower,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+7456,7471,Toys Era,The Cyclopstech,2019,"Tye Sheridan as Scott Summers, Cyclops. Likness from ""X-Men: Apocalypse"".",1:6 figure,NeoGEEK Toys,179.99,,"Tye Sheridan as Scott Summers, Cyclops. Likness from ""X-Men: Apocalypse"".",Tye Sheridan,desk.right.top.lower,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+7457,7472,Pop Toys,Saint Knight Jeanne la Pucelle,2018,Saint Joan of Arc in full armor. Two headsculpts. Molded hair and rooted hair.,1:6 figure,Timewalker Toys,154.99,,Saint Joan of Arc in full armor. Two headsculpts. Molded hair and rooted hair.,,desk.above.04,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7458,,Ou Zhi Xiang,Mummy (Standard Edition),2018,Fictional Egyptian mummy in cloth wrap with three portraits. Monster File #05.,1:6 figure,Timewalker Toys,236.99,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7459,7474,Ou Zhi Xiang,Mummy (Standard Edition),2018,Fictional Egyptian mummy in cloth wrap with three portraits. Monster File #05.,1:6 figure,Timewalker Toys,236.99,,Fictional Egyptian mummy in cloth wrap with three portraits.,,shelf.20x15.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7460,7475,Mondo,Batman,2018,Batman from Batman: The Animated Series. Yellow chest emblem version.,1:6 figure,Sideshow Collectibles,125,,Batman from Batman: The Animated Series. Yellow chest emblem version.,,window.right.top.middle,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8447,8464,Toys Era,The Comedian (Unlicensed Joker),2020,"Unlicensed Joken/Arthur Fleck figure from ""The Joker.""",1:6 figure,One Sixth Outfitters,209.99,,"Unlicensed Joken/Arthur Fleck figure from ""The Joker."" Three head sculpt. Straight-face Joker, Smiling Joker, Arthur FLeck (no makeup)",Joaquin Phoenix,window.left.bottom.lower,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8448,8465,Hot Toys,Boba Fett (Vintage Color),2020,"The Empire Stikes Back Boba Fett in colors and packaging akin to the original 3.75"" Kenner figure. MMS571",1:6 figure,Sideshow Collectibles,294.99,,"The Empire Stikes Back Boba Fett in colors and packaging akin to the original 3.75"" Kenner figure.",,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+9447,9464,Hot Toys,The Wasp (from Ant-Man and the Wasp),2020,"The Wasp from ""Ant-Man and the Wasp"". MMS498",1:6 figure,Sideshow Collectibles,251,,"The Wasp from ""Ant-Man and the Wasp"". Includes helmeted and unhelmeted head scuplts",Evangeline Lilly,desk.right.top.upper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+9448,9465,Hot Toys,"Iron Man Mark XLVII (from ""Spider-Man: Homecoming"")",2020,"Iron Man Mark XLVII from Spider-Man: Homecoming"". MMS427 D191",1:6 figure,Sideshow Collectibles,374,,"Iron Man Mark XLVII from Spider-Man: Homecoming"". Includes helmeted, unhelmeted, and empty helmet head scuplts",Robert Downey Jr.,tv.right.top.middle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+9449,9466,Hot Toys,"Iron Man Mark I (from ""Iron Man"")",2009,"Iron Man Mark I from ""Iron Man"". MMS80. Purchased figure only. No box and no flamethrower effect.",1:6 figure,eBay,346.59,,"Iron Man Mark I from ""Iron Man"". Includes helmeted and unhelmeted helmet head scuplts",Robert Downey Jr.,desk.right.top.upper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+9450,9467,DC Direct/DC Collectibles,Batman Black & White: Batman by Todd McFarlane Deluxe Statue 2.0,2020,Batman Black & White: Batman by Todd McFarlane Deluxe Statue 2.0.,Statue,Sideshow Collectibles,135,,Batman Black & White: Batman by Todd McFarlane Deluxe Statue 2.0.,,window.right.bottom.middle,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10447,10464,Hot Toys,Jawa and EG-6 Power Droid,2020,Jawa and EG-6 Power Droid from various Star Wars episodes. MMS554,1:6 figure,Sideshow Collectibles,267,,Tatooine Jawa with light-up eyes and blaster.,,shelf.20x15.02,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+10447,10465,Hot Toys,Jawa and EG-6 Power Droid,2020,Jawa and EG-6 Power Droid from various Star Wars episodes. MMS554,1:6 figure,Sideshow Collectibles,267,,EG-6 Power Drod with articulated legs.,,shelf.20x15.01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+10448,10466,Hot Toys,First Order Stormtrooper Officer,2016,First Order Stormtrooper Officer from various Star Wars episodes in the First Order (sequel) trilogy. MMS334,1:6 figure,eBay,194,,First Order Stormtrooper in full armor with red pauldron.,,shelf.20x15.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+10449,10467,Hot Toys,Death Trooper,2020,Death from various Star Wars properties. TMS013,1:6 figure,Sideshow Collectibles,235,,Death Trooper in full black armor.,,shelf.20x15.02,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+10450,10468,Hot Toys,Sith Jet Trooper,2020,Star Wars' Sith Jet Trooper. MMS562,1:6 figure,Sideshow Collectibles,220,,Sith Jet Trooper in full red armor.,,shelf.20x15.02,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+10451,10469,Bio Inspired,Athos the Rodeleros,2019,Knight in blue armor.,1:6 figure,Timewalker Toys,199.99,,Fictional knight in blue armor.,,shelf.20x15.04,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+10452,10470,Coo Model,Frankenstein (Birth Edition) (Monster File No. 07),2019,Cartoonish Frankenstien monster with operating table. No. 07 in the Monster File series.,1:6 figure,Timewalker Toys,310.99,,Cartoonish Frankenstien monster. No. 07 in the Monster File series.,,TBD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
